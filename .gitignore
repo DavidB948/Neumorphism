@@ -3,7 +3,6 @@
 NeumorphismTests
 NeumorphismUITests
 
-
 ## User settings
 xcuserdata/
 
@@ -89,4 +88,8 @@ fastlane/test_output
 # After new code Injection tools there's a generated folder /iOSInjectionProject
 # https://github.com/johnno1962/injectionforxcode
 
+<<<<<<< HEAD
 iOSInjectionProject/
+=======
+iOSInjectionProject/
+>>>>>>> 0a4fe85b7ef6383396ce9fbb5feb37bd76a74ee6
