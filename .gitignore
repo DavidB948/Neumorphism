@@ -1,7 +1,7 @@
 ##Project-Wide
 .DS_Store
-NeumorphismTests
-NeumorphismUITests
+NeumorphismTests/
+NeumorphismUITests/
 
 ## User settings
 xcuserdata/
